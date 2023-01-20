@@ -8,11 +8,6 @@ Initial iOS application that allows the user to add some information about thems
 
 ![](intro-demo-1.gif)
 
-<img src="https://github.com/nperezcasas/codepath-prework/intro-demo-1.gif" width=200><br>
-<img src="" width=200><br>
-
-<!-- <img src="YOUR_GIF_URL_HERE" width=200><br> OR <img src="YOUR_GIF_PATH" width=200><br> -->
-
 ### Required Features
 
 - [x] 1. App displays an image of a school's logo
